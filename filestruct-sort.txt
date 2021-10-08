@@ -1,0 +1,20 @@
+
+Sorting order (in order of precedence):
+ 
+driving in ascending order. 
+produce in ascending order. 
+flight in descending order. 
+thumb in ascending order. 
+pain in descending order. 
+art in ascending order. 
+pancake in ascending order. 
+lizards in descending order. 
+carpenter in descending order. 
+girls in descending order. 
+increase in ascending order. 
+brothers in ascending order. 
+morning in descending order. 
+system in descending order. 
+crime in ascending order. 
+heart in descending order. 
+scarecrow in descending order. 
