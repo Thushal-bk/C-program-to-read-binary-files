@@ -51,4 +51,6 @@ main.c accepts two arguments (1) The input binary file for fread (2) The output 
 The input binary files are named as input-1.bin, input-2.bin...etc
 The output binary files is what my program generated.
 
+You can verify the output of the binary files using verify.c, it accepts one argument, just the binary file you want to print the output for.
+
 
