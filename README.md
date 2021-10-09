@@ -53,4 +53,4 @@ The output binary files is what my program generated.
 
 You can verify the output of the binary files using verify.c, it accepts one argument, just the binary file you want to print the output for.
 
-main.c creates an array of structs for each binary file read. For sorting an array of pointers pointing to the structs is created and then sorted. Pointer sorting is much more efficient than sorting whole structs.
+main.c creates an array of structs for each binary file read. For sorting an array of pointers pointing to the structs is created and then sorted. Pointer sorting is much more efficient than sorting whole structs. The sorting function used is qsort. A customer compare function for qsort is used to meet the sorting specifications.
