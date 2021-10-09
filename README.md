@@ -8,6 +8,7 @@ Each record in the data files contains the following fields in the following ord
 
 
 -The 'heart' field is an integer occupying 2 bytes
+
 -The 'lizards' field is a Boolean occupying 2 bytes
 The 'crime' field is a Boolean occupying 1 byte
 The 'pancake' field is a Boolean occupying 4 bytes
